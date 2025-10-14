@@ -20,7 +20,6 @@ class Solution:
             max_diameter[0] = max(diameter, max_diameter[0])
 
             return 1 + max(left_height, right_height)
-        
+
         height(root)
         return max_diameter[0]
-        

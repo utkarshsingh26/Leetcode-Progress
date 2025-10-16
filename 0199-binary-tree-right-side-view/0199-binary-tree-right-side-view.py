@@ -23,7 +23,7 @@ class Solution:
 
                 for i in range(level_length):
                     treeNode = queue.popleft()
-                    
+
                     level.append(treeNode.val)
 
                     if treeNode.left:
@@ -37,3 +37,4 @@ class Solution:
         
         bfs(root)
         return result
+        

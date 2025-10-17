@@ -18,7 +18,7 @@ class Solution:
             while queue:
                 row, column = queue.popleft()
 
-                for dr, dc in directions:
+                for dr,dc in directions:
                     nr, nc = row + dr, column + dc
 
                     if 0 <= nr < rows and 0 <= nc < columns and grid[nr][nc] == 1 and (nr,nc) not in visited:

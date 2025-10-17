@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-
+        
         count = [0]
 
         def dfs(node, max_so_far):
@@ -22,4 +22,3 @@ class Solution:
         
         dfs(root, root.val)
         return count[0]
-        

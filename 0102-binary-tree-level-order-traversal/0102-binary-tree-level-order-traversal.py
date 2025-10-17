@@ -7,7 +7,7 @@
 from collections import deque
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        
+
         result = []
 
         def bfs(node):
@@ -23,7 +23,7 @@ class Solution:
 
                 for _ in range(level_length):
                     treeNode = queue.popleft()
-                    
+
                     level.append(treeNode.val)
 
                     if treeNode.left:
@@ -31,9 +31,10 @@ class Solution:
                     
                     if treeNode.right:
                         queue.append(treeNode.right)
-                
+                    
                 result.append(level)
         
         bfs(root)
         return result
+
         

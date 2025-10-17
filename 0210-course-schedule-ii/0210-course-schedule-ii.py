@@ -1,6 +1,6 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        
+
         graph = defaultdict(list)
 
         for u,v in prerequisites:
@@ -11,13 +11,14 @@ class Solution:
         VISITED = 2
 
         status = [UNVISITED] * numCourses
+
         result = []
 
         def cycle(node):
-            if status[node] == VISITED:
-                return False
-            elif status[node] == VISITING:
+            if status[node] == VISITING:
                 return True
+            elif status[node] == VISITED:
+                return False
             else:
                 status[node] = VISITING
                 for neighbor in graph[node]:

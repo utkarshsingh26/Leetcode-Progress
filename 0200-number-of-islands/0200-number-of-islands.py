@@ -1,7 +1,7 @@
 from collections import deque
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-
+        
         rows = len(grid)
         columns = len(grid[0])
 
@@ -20,9 +20,9 @@ class Solution:
                 for dr, dc in directions:
                     nr, nc = row + dr, column + dc
 
-                    if 0 <= nr < rows and 0 <= nc < columns and grid[nr][nc] == "1" and (nr,nc) not in visited:
-                        queue.append((nr,nc))
+                    if 0 <= nr < rows and 0 <= nc < columns and grid[nr][nc] == "1" and (nr, nc) not in visited:
                         visited.add((nr,nc))
+                        queue.append((nr,nc))
 
         for r in range(rows):
             for c in range(columns):
@@ -31,4 +31,3 @@ class Solution:
                     islands += 1
         
         return islands
-        

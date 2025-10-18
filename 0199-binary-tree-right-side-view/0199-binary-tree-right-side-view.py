@@ -7,7 +7,7 @@
 from collections import deque
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-
+        
         result = []
 
         def bfs(node):
@@ -37,4 +37,3 @@ class Solution:
         
         bfs(root)
         return result
-        

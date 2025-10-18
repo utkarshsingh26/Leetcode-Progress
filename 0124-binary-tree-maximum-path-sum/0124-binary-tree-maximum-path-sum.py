@@ -16,12 +16,10 @@ class Solution:
             left_gain = max(dfs(node.left), 0)
             right_gain = max(dfs(node.right), 0)
 
-            curr_path = left_gain + node.val + right_gain
-
-            max_sum[0] = max(max_sum[0], curr_path)
+            curr_gain = left_gain + node.val + right_gain
+            max_sum[0] = max(max_sum[0], curr_gain)
 
             return node.val + max(left_gain, right_gain)
         
         dfs(root)
-        return max_sum[0]
-    
+        return max_sum[0] 

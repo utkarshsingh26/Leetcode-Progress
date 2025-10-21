@@ -12,7 +12,7 @@ class Solution:
 
         if not node:
             return None
-            
+
         old_to_new = {}
 
         def dfs(node):
@@ -28,3 +28,4 @@ class Solution:
             return copy
         
         return dfs(node)
+        

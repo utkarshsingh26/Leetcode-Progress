@@ -13,21 +13,18 @@ class Solution:
         status = [UNVISITED] * numCourses
 
         def cycle(node):
-            if status[node] == VISITING:
-                return True
-            elif status[node] == VISITED:
+            if status[node] == VISITED:
                 return False
+            elif status[node] == VISITING:
+                return True
             else:
                 status[node] = VISITING
-                
                 for neighbor in graph[node]:
                     if cycle(neighbor):
                         return True
-                
                 status[node] = VISITED
                 return False
 
-        
         for i in range(numCourses):
             if cycle(i):
                 return False

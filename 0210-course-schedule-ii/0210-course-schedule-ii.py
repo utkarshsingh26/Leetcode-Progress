@@ -1,7 +1,8 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-
+        
         graph = defaultdict(list)
+        result = []
 
         for u,v in prerequisites:
             graph[v].append(u)
@@ -12,13 +13,11 @@ class Solution:
 
         status = [UNVISITED] * numCourses
 
-        result = []
-
         def cycle(node):
-            if status[node] == VISITING:
-                return True
-            elif status[node] == VISITED:
+            if status[node] == VISITED:
                 return False
+            elif status[node] == VISITING:
+                return True
             else:
                 status[node] = VISITING
                 for neighbor in graph[node]:
@@ -27,9 +26,9 @@ class Solution:
                 status[node] = VISITED
                 result.append(node)
                 return False
-        
+
         for i in range(numCourses):
             if cycle(i):
                 return []
-        
-        return result[::-1]
+
+        return result[::-1] 

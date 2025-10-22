@@ -10,11 +10,10 @@ class KthLargest:
             if len(self.heap) < self.k:
                 heapq.heappush(self.heap, num)
             else:
-                heapq.heappushpop(self.heap, num)
+                heapq.heappushpop(self.heap, num)        
 
     def add(self, val: int) -> int:
         k = self.k
-        nums = self.nums
         heap = self.heap
 
         if len(heap) < k:
@@ -24,6 +23,8 @@ class KthLargest:
         
         return heap[0]
         
+
+
 # Your KthLargest object will be instantiated and called as such:
 # obj = KthLargest(k, nums)
 # param_1 = obj.add(val)

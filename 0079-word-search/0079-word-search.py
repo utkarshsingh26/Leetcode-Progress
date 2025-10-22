@@ -3,12 +3,12 @@ class Solution:
         
         rows = len(board)
         columns = len(board[0])
-        
+
         def dfs(r,c,index):
-            if index == len(word):
+            if index >= len(word):
                 return True
             
-            if not (0 <= r < rows and 0 <= c < columns and word[index] == board[r][c]):
+            if not (0 <= r < rows and 0 <= c < columns and board[r][c] == word[index]):
                 return False
             
             temp = board[r][c]
@@ -34,3 +34,6 @@ class Solution:
                         return True
         
         return False
+        
+
+        

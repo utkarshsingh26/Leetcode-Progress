@@ -7,7 +7,7 @@ class Solution:
         result.append(temp[:])
 
         def backtrack(index):
-            if index >= len(nums) or len(temp) > len(result):
+            if index >= len(nums) or len(temp) > len(nums):
                 return
             
             backtrack(index+1)

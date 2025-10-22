@@ -3,20 +3,16 @@ class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
 
         for i in range(len(stones)):
-            stones[i] = -1 * stones[i]
+            stones[i] = -stones[i]
         
         heapq.heapify(stones)
         
         while len(stones) > 1:
-            biggest = heapq.heappop(stones)
-            secondBiggest = heapq.heappop(stones)
-
-            biggest = -1 * biggest
-            secondBiggest = -1 * secondBiggest
-
-            diff = biggest - secondBiggest
-            diff = -1 * diff
-
-            heapq.heappush(stones, diff)
+            biggest = -1 * (heapq.heappop(stones))
+            secondBiggest = -1 * (heapq.heappop(stones))
+            
+            difference = biggest - secondBiggest
+            heapq.heappush(stones, -difference)
         
         return -stones[0]
+        

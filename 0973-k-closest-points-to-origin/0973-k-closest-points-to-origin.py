@@ -1,22 +1,17 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-
-        def distanceToOrigin(point):
-            x = point[0]
-            y = point[1]
-
+        
+        def euclidDistance(x,y):
             distance = x*x + y*y
-
             return distance
         
         heap = []
 
         for point in points:
-            localDistance = distanceToOrigin(point)
-            
+            distance = euclidDistance(point[0], point[1])
             if len(heap) < k:
-                heapq.heappush(heap, (-localDistance, point))
+                heapq.heappush(heap, (-distance, point))
             else:
-                heapq.heappushpop(heap, (-localDistance, point))
+                heapq.heappushpop(heap, (-distance, point))
         
-        return list(point for _,point in heap)
+        return [point for (_,point) in heap]

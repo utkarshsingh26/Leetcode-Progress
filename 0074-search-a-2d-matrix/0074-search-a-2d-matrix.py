@@ -1,6 +1,6 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-
+        
         def binarySearch(nums, target):
             left = 0
             right = len(nums) - 1
@@ -16,7 +16,7 @@ class Solution:
                     right = mid - 1
             
             return False
-        
+
         left = 0
         right = len(matrix) - 1
 
@@ -31,4 +31,3 @@ class Solution:
                 left = mid + 1
         
         return False
-        

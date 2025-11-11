@@ -1,8 +1,10 @@
-from collections import Counter
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
-        counter1 = Counter(s)
-        counter2 = Counter(t)
+        sett1 = set(s)
+        sett2 = set(t)
 
-        return counter1 == counter2
+        if sett1 == sett2:
+            return True
+        else:
+            return False

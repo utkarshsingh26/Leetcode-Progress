@@ -16,15 +16,13 @@ class Solution:
             left = height(node.left)
             right = height(node.right)
 
-            difference = abs(left - right)
+            diff = abs(right - left)
 
-            if difference > 1:
+            if diff > 1:
                 is_balanced[0] = False
-            
+
             return 1 + max(left, right)
         
         height(root)
-        return is_balanced[0]
-        
 
-        
+        return is_balanced[0]

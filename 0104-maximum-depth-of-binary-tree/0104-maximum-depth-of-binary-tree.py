@@ -15,6 +15,5 @@ class Solution:
             right = height(node.right)
 
             return 1 + max(left, right)
-        
+    
         return height(root)
-        

@@ -28,22 +28,24 @@ class Solution:
             elif nums[mid] < nums[right]:
                 right = mid
         
+        minNum = nums[left]
         minIndex = left
-        minElement = nums[left]
 
-        if minElement == target:
+        if target == minNum:
             return minIndex
         
-        if minElement < target <= nums[-1]:
-            arr = nums[minIndex:]
-            answer = binarySearch(arr, target)
-            if answer != -1:
-                answer += minIndex
-                return answer
-            else:
-                return answer
-        elif nums[0] <= target <= nums[minIndex-1]:
-            arr = nums[:minIndex]
-            return binarySearch(arr, target)
+        if minIndex == 0:
+            return binarySearch(nums, target)
         else:
-            return -1
+            
+            if nums[0] <= target <= nums[minIndex-1]:
+                arr = nums[:minIndex]
+                return binarySearch(arr, target)
+            elif nums[minIndex] <= target <= nums[-1]:
+                arr = nums[minIndex:]
+                result = binarySearch(arr, target)
+                return result + minIndex if result != -1 else -1
+            else:
+                return -1
+
+                

@@ -8,7 +8,7 @@ class Solution:
             if index >= len(word):
                 return True
             
-            if not (0 <= r < rows and 0 <= c < columns and board[r][c] == word[index]):
+            if not (0 <= r < rows) or not (0 <= c < columns) or board[r][c] != word[index]:
                 return False
             
             temp = board[r][c]
@@ -34,6 +34,3 @@ class Solution:
                         return True
         
         return False
-        
-
-        

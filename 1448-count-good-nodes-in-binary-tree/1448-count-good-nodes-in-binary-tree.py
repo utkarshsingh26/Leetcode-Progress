@@ -9,16 +9,19 @@ class Solution:
         
         count = [0]
 
-        def dfs(node, max_so_far):
+        def dfs(node, maximum):
             if not node:
                 return
             
-            if node.val >= max_so_far:
+            if node.val >= maximum:
                 count[0] += 1
-                max_so_far = node.val
+                maximum = node.val
             
-            dfs(node.left, max_so_far)
-            dfs(node.right, max_so_far)
+            if node.left:
+                dfs(node.left, maximum)
+            
+            if node.right:
+                dfs(node.right, maximum)
         
-        dfs(root, root.val)
+        dfs(root, float("-inf"))
         return count[0]

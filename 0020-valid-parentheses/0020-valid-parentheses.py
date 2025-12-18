@@ -13,14 +13,9 @@ class Solution:
             if char not in hashmap:
                 stack.append(char)
             else:
-                if stack:
-                    popped = stack.pop()
-                    if hashmap[char] != popped:
-                        return False
-                else:
+                if not stack:
+                    return False
+                if hashmap[char] != stack.pop():
                     return False
         
-        if len(stack) == 0:
-            return True
-        else:
-            return False
+        return True if len(stack) == 0 else False

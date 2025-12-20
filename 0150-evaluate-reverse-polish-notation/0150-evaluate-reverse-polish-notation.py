@@ -14,11 +14,11 @@ class Solution:
                     result = first + second
                 elif token == "-":
                     result = first - second
-                elif token == "*":
-                    result = first * second
                 elif token == "/":
                     result = int(first / second)
+                elif token == "*":
+                    result = first * second
                 
                 stack.append(result)
-        
+            
         return stack[0]

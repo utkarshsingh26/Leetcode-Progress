@@ -1,6 +1,6 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-
+        
         hashmap = {}
 
         for i in range(len(nums)):
@@ -9,7 +9,5 @@ class Solution:
         for i in range(len(nums)):
             toFind = target - nums[i]
 
-            if toFind in hashmap:
-                if i != hashmap[toFind]:
-                    return [i, hashmap[toFind]]
-        
+            if toFind in hashmap and hashmap[toFind] != i:
+                return [i, hashmap[toFind]]

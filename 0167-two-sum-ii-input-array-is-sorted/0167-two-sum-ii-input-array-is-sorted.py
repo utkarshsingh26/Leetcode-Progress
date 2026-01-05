@@ -11,5 +11,3 @@ class Solution:
                 left += 1
             elif numbers[left] + numbers[right] > target:
                 right -= 1
-        
-        

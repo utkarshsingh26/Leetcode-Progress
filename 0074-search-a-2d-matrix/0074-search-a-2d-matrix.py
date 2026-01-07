@@ -16,7 +16,7 @@ class Solution:
                     right = mid - 1
             
             return False
-
+        
         left = 0
         right = len(matrix) - 1
 
@@ -27,7 +27,7 @@ class Solution:
                 return binarySearch(matrix[mid], target)
             elif target < matrix[mid][0]:
                 right = mid - 1
-            elif target > matrix[mid][-1]:
+            else:
                 left = mid + 1
         
         return False

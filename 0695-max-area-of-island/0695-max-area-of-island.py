@@ -4,21 +4,19 @@ class Solution:
         
         rows = len(grid)
         columns = len(grid[0])
-
-        max_area = 0
+        maxArea = 0
         visited = set()
 
         def bfs(r,c):
-            area = 1
             queue = deque()
             queue.append((r,c))
             visited.add((r,c))
-
             directions = [(0,1), (0,-1), (1,0), (-1,0)]
+            area = 1
 
             while queue:
                 row, column = queue.popleft()
-
+                
                 for dr, dc in directions:
                     nr, nc = row + dr, column + dc
 
@@ -33,6 +31,6 @@ class Solution:
             for c in range(columns):
                 if grid[r][c] == 1 and (r,c) not in visited:
                     area = bfs(r,c)
-                    max_area = max(max_area, area)
+                    maxArea = max(area, maxArea)
         
-        return max_area
+        return maxArea

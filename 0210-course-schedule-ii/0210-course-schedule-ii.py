@@ -2,7 +2,6 @@ class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         
         graph = defaultdict(list)
-        result = []
 
         for u,v in prerequisites:
             graph[v].append(u)
@@ -12,6 +11,7 @@ class Solution:
         VISITED = 2
 
         status = [UNVISITED] * numCourses
+        result = []
 
         def cycle(node):
             if status[node] == VISITED:
@@ -26,9 +26,9 @@ class Solution:
                 status[node] = VISITED
                 result.append(node)
                 return False
-
+        
         for i in range(numCourses):
             if cycle(i):
                 return []
-
-        return result[::-1] 
+        
+        return result[::-1]

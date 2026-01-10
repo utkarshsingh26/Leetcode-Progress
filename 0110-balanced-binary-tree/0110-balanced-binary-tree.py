@@ -8,20 +8,20 @@ class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
 
         is_balanced = [True]
-
-        def height(node):
-            if not node:
+        
+        def height(root):
+            if not root:
                 return 0
             
-            left = height(node.left)
-            right = height(node.right)
+            left = height(root.left)
+            right = height(root.right)
 
-            diff = abs(right - left)
-
-            if diff > 1:
+            if abs(right - left) > 1:
                 is_balanced[0] = False
 
-            return 1 + max(left, right)
+            depth = 1 + max(left, right)
+
+            return depth
         
         height(root)
 

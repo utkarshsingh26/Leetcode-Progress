@@ -16,8 +16,8 @@ class Solution:
             left = height(node.left)
             right = height(node.right)
 
-            diameter = left + right
-            max_diameter[0] = max(diameter, max_diameter[0])
+            diameter = right + left
+            max_diameter[0] = max(max_diameter[0], diameter)
 
             return 1 + max(left, right)
         

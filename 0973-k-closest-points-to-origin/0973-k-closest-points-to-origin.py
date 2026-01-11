@@ -1,9 +1,9 @@
+import heapq
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         
         def euclidDistance(x,y):
-            distance = x*x + y*y
-            return distance
+            return x*x + y*y
         
         heap = []
 
@@ -14,4 +14,4 @@ class Solution:
             else:
                 heapq.heappushpop(heap, (-distance, point))
         
-        return [point for (_,point) in heap]
+        return list((point) for (distance, point) in heap)

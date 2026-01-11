@@ -4,19 +4,14 @@ class Solution:
         intervals = intervals + [newInterval]
         intervals.sort(key=lambda x:x[0])
         result = []
+        result.append(intervals[0])
 
-        for interval in intervals:
-            if len(result) == 0:
-                result.append(interval)
+        for interval in intervals[1:]:
+
+            if interval[0] <= result[-1][1]:
+                result[-1][0] = min(result[-1][0], interval[0])
+                result[-1][1] = max(result[-1][1], interval[1])
             else:
-                start = result[-1][0]
-                end = result[-1][1]
-
-                if interval[0] <= end:
-                     result[-1][0] = min(result[-1][0], interval[0])
-                     result[-1][1] = max(result[-1][1], interval[1])
-                else:
-                    result.append(interval)
+                result.append(interval)
         
         return result
-

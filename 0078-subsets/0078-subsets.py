@@ -1,11 +1,11 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-
+        
         result = []
         temp = []
 
         result.append(temp[:])
-
+        
         def backtrack(index):
             if index >= len(nums) or len(temp) == len(nums):
                 return
@@ -14,7 +14,6 @@ class Solution:
 
             temp.append(nums[index])
             result.append(temp[:])
-
             backtrack(index+1)
             temp.pop()
         

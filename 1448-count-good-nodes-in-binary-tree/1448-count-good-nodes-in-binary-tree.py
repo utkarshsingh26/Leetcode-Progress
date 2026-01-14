@@ -7,21 +7,21 @@
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         
-        count = [0]
+        good = [0]
 
-        def dfs(node, maximum):
+        def dfs(node, max_so_far):
             if not node:
                 return
             
-            if node.val >= maximum:
-                count[0] += 1
-                maximum = node.val
+            if node.val >= max_so_far:
+                max_so_far = node.val
+                good[0] += 1
             
             if node.left:
-                dfs(node.left, maximum)
+                dfs(node.left, max_so_far)
             
             if node.right:
-                dfs(node.right, maximum)
+                dfs(node.right, max_so_far)
         
-        dfs(root, float("-inf"))
-        return count[0]
+        dfs(root, root.val)
+        return good[0]

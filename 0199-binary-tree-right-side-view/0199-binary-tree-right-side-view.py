@@ -9,7 +9,7 @@ class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         
         result = []
-        
+         
         def bfs(node):
             if not node:
                 return
@@ -22,16 +22,17 @@ class Solution:
                 level_length = len(queue)
 
                 for i in range(level_length):
+
                     treeNode = queue.popleft()
 
+                    if i == level_length-1:
+                        result.append(treeNode.val)
+                    
                     if treeNode.left:
                         queue.append(treeNode.left)
                     
                     if treeNode.right:
                         queue.append(treeNode.right)
-                    
-                    if i == level_length-1:
-                        result.append(treeNode.val)
         
         bfs(root)
         return result

@@ -1,4 +1,5 @@
 class TrieNode:
+
     def __init__(self):
         self.children = {}
         self.end_of_word = False
@@ -25,7 +26,7 @@ class Trie:
             if ch not in curr.children:
                 return False
             curr = curr.children[ch]
-
+        
         return curr.end_of_word
 
     def startsWith(self, prefix: str) -> bool:
@@ -37,6 +38,7 @@ class Trie:
             curr = curr.children[ch]
         
         return True
+
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()

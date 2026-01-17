@@ -11,5 +11,5 @@ class Solution:
                     result[1] = True
                 if triplet[2] == target[2]:
                     result[2] = True
-
+        
         return all(result)

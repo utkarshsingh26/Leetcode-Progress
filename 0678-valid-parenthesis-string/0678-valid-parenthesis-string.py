@@ -1,24 +1,24 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-
-        leftMin = 0
-        leftMax = 0
+        
+        left_min = 0
+        left_max = 0
 
         for char in s:
             if char == "(":
-                leftMin += 1
-                leftMax += 1
+                left_min += 1
+                left_max += 1
             elif char == ")":
-                leftMin -= 1
-                leftMax -= 1
+                left_min -= 1
+                left_max -= 1
             else:
-                leftMin -= 1
-                leftMax += 1
-
-            if leftMax < 0:
-                return False
+                left_min -= 1
+                left_max += 1
             
-            if leftMin < 0:
-                leftMin = 0
+            if left_max < 0:
+                return False
+
+            if left_min < 0:
+                left_min = 0
         
-        return leftMin == 0
+        return left_min == 0

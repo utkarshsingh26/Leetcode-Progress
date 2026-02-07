@@ -10,7 +10,7 @@ class Solution:
         VISITING = 1
         VISITED = 2
 
-        status = [0] * numCourses
+        status = [UNVISITED] * numCourses
 
         def cycle(node):
             if status[node] == VISITED:
@@ -19,15 +19,13 @@ class Solution:
                 return True
             else:
                 status[node] = VISITING
-
                 for neighbor in graph[node]:
                     if cycle(neighbor):
                         return True
-                
                 status[node] = VISITED
                 return False
-
-        for i in range(numCourses):
+        
+        for i  in range(numCourses):
             if cycle(i):
                 return False
         

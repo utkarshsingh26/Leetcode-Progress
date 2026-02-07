@@ -7,15 +7,14 @@ class Solution:
         for i in range(len(nums)-2):
             if i > 0 and nums[i] == nums[i-1]:
                 continue
-
-            left = i+1
+            left = i + 1
             right = len(nums)-1
 
             while left < right:
-                if nums[i] + nums[left] + nums[right] == 0:
+                summ = nums[i] + nums[left] + nums[right]
 
-                    temp = [nums[i], nums[left], nums[right]]
-                    result.append(temp)
+                if summ == 0:
+                    result.append([nums[i], nums[left], nums[right]])
 
                     left += 1
                     right -= 1
@@ -26,9 +25,9 @@ class Solution:
                     while left < right and nums[right] == nums[right+1]:
                         right -= 1
 
-                elif nums[i] + nums[left] + nums[right] < 0:
+                elif summ < 0:
                     left += 1
-                elif nums[i] + nums[left] + nums[right] > 0:
+                elif summ > 0:
                     right -= 1
         
         return result

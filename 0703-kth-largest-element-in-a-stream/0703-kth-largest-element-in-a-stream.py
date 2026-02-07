@@ -6,19 +6,21 @@ class KthLargest:
         self.heap = []
 
         for num in self.nums:
-            if len(self.heap) < self.k:
+            if len(self.heap) < k:
                 heapq.heappush(self.heap, num)
             else:
-                heapq.heappushpop(self.heap, num)
+                heapq.heappushpop(self.heap, num) 
 
     def add(self, val: int) -> int:
+        heap = self.heap
+        k = self.k
 
-        if len(self.heap) < self.k:
-            heapq.heappush(self.heap, val)
+        if len(heap) < k:
+            heapq.heappush(heap, val)
         else:
-            heapq.heappushpop(self.heap, val)
-        
-        return self.heap[0]
+            heapq.heappushpop(heap, val)
+
+        return heap[0] 
 
 
 # Your KthLargest object will be instantiated and called as such:

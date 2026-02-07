@@ -1,24 +1,22 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         
-        piles.sort()
-        answer = piles[-1]
-        
-        def totalEaten(x):
-            answer = 0
-            for pile in piles:
-                answer += math.ceil(float(pile)/x)
-            return answer
-        
         left = 1
-        right = piles[-1]
+        right = max(piles)
+        answer = right
 
+        def hoursEaten(n):
+            hours = 0
+            for pile in piles:
+                hours += math.ceil(float(pile)/n)
+            return hours
+        
         while left <= right:
-            mid = (left + right) // 2
+            mid = (left + right)//2
 
-            if totalEaten(mid) <= h:
+            if hoursEaten(mid) <= h:
                 answer = mid
-                right = mid  - 1
+                right = mid - 1
             else:
                 left = mid + 1
         

@@ -3,25 +3,25 @@ class Solution:
         
         def binarySearch(nums, target):
             left = 0
-            right = len(nums) - 1
+            right = len(nums)-1
 
             while left <= right:
-                mid = (left + right) // 2
+                mid = (left+ right)//2
 
                 if nums[mid] == target:
                     return True
                 elif nums[mid] < target:
                     left = mid + 1
-                elif nums[mid] > target:
+                else:
                     right = mid - 1
             
             return False
         
         left = 0
-        right = len(matrix) - 1
+        right = len(matrix)-1
 
         while left <= right:
-            mid = (left + right) // 2
+            mid = (left + right)//2
 
             if matrix[mid][0] <= target <= matrix[mid][-1]:
                 return binarySearch(matrix[mid], target)

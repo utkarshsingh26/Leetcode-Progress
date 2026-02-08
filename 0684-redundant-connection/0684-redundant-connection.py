@@ -8,17 +8,17 @@ class Solution:
             if node1 == node2:
                 return True
             
-            visited.add(node2)
-
-            for neighbor in graph[node2]:
+            visited.add(node1)
+            
+            for neighbor in graph[node1]:
                 if neighbor not in visited:
-                    if cycle(node1, neighbor):
+                    if cycle(neighbor, node2):
                         return True
             
             return False
-
+        
         for u,v in edges:
-            if u in graph or v in graph:
+            if u in graph and v in graph:
                 visited.clear()
                 if cycle(u,v):
                     return [u,v]

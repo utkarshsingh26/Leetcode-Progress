@@ -11,18 +11,17 @@ class Solution:
         queue.append((beginWord, 1))
 
         while queue:
-            word, step = queue.popleft()
-
+            word, steps = queue.popleft()
             for i in range(len(word)):
                 for char in 'abcdefghijklmnopqrstuvwxyz':
                     newWord = word[:i] + char + word[i+1:]
 
-                    if newWord == endWord:
-                        return step+1
-                    
                     if newWord in wordSet:
                         wordSet.remove(newWord)
-                        queue.append((newWord, step+1))
+                        queue.append((newWord, steps+1))
+
+                    if newWord == endWord:
+                        return steps+1
         
         return 0
         

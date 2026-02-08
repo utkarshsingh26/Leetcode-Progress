@@ -1,4 +1,3 @@
-from collections import deque
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
         """
@@ -11,24 +10,22 @@ class Solution:
 
         for r in range(rows):
             for c in range(columns):
-                if board[r][c] == "O" and (r == 0 or r == rows-1 or c == 0 or c == columns-1):
+                if (r == 0 or r == rows-1 or c == 0 or c == columns-1) and board[r][c] == "O":
                     queue.append((r,c))
-
-        def bfs(queue):
+                    visited.add((r,c))
+        
+        def bfs(queue, visited):
             directions = [(0,1), (0,-1), (1,0), (-1,0)]
-
             while queue:
                 row, column = queue.popleft()
-
                 for dr, dc in directions:
                     nr, nc = row + dr, column + dc
 
-                    if 0 <= nr < rows and 0 <= nc < columns and board[nr][nc] == "O" and (nr,nc) not in visited :
-
-                        visited.add((nr,nc))
+                    if 0 <= nr < rows and 0 <= nc < columns and board[nr][nc] == "O" and (nr, nc) not in visited:
                         queue.append((nr,nc))
+                        visited.add((nr,nc))
         
-        bfs(queue)
+        bfs(queue, visited)
 
         for r in range(rows):
             for c in range(columns):

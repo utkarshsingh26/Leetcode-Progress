@@ -10,7 +10,7 @@ class Solution:
 
         def dfs(node):
             if not node:
-                return
+                return None
             
             if node == p or node == q:
                 return node
@@ -20,7 +20,8 @@ class Solution:
 
             if left and right:
                 return node
-            
-            return left if left else right
+            else:
+                return left if left else right
+
         
         return dfs(root)

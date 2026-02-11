@@ -18,4 +18,5 @@ class Solution:
             inorder(node.right)
         
         inorder(root)
+
         return result[k-1]

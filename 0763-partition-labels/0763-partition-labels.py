@@ -1,6 +1,6 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        
+
         result = []
         lastIndex = {}
 
@@ -14,7 +14,8 @@ class Solution:
             end = max(end, lastIndex[s[i]])
 
             if i == end:
-                result.append(end-start+1)
+                length = (end - start) + 1
                 start = i + 1
+                result.append(length)
         
         return result

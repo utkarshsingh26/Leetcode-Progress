@@ -11,5 +11,5 @@ class Solution:
             if i == curr_end:
                 jumps += 1
                 curr_end = max_jump
-
+        
         return jumps

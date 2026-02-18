@@ -5,15 +5,13 @@ class Solution:
             return -1
         
         start = 0
-        total_sum = 0
+        summ = 0
 
         for i in range(len(gas)):
-            interim_sum = gas[i] - cost[i]
-            total_sum += interim_sum
+            summ += gas[i] - cost[i]
 
-            if total_sum < 0:
-                total_sum = 0
-                start = i+1
+            if summ < 0:
+                summ = 0
+                start = i + 1
         
         return start
-            

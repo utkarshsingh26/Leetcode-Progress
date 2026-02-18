@@ -7,6 +7,7 @@ class Solution:
         for i in range(len(nums)):
             summ += nums[i]
             max_sum = max(max_sum, summ)
+
             if summ < 0:
                 summ = 0
         

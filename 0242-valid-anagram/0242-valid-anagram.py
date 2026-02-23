@@ -2,7 +2,7 @@ from collections import Counter
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
-        counter1 = Counter(s)
-        counter2 = Counter(t)
+        count_s = Counter(s)
+        count_t = Counter(t)
 
-        return counter1 == counter2
+        return count_s == count_t

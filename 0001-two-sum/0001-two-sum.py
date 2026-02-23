@@ -9,5 +9,5 @@ class Solution:
         for i in range(len(nums)):
             toFind = target - nums[i]
 
-            if toFind in hashmap and i != hashmap[toFind]:
+            if toFind in hashmap and hashmap[toFind] != i:
                 return [i, hashmap[toFind]]

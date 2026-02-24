@@ -16,6 +16,7 @@ class Solution:
 
             temp.append(candidates[index])
             backtrack(index, curr_sum + candidates[index])
+
             temp.pop()
         
         backtrack(0,0)

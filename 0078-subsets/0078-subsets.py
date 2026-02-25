@@ -5,9 +5,9 @@ class Solution:
         temp = []
 
         result.append(temp[:])
-        
+
         def backtrack(index):
-            if index >= len(nums) or len(temp) == len(nums):
+            if index >= len(nums) or len(temp) > len(nums):
                 return
             
             backtrack(index+1)

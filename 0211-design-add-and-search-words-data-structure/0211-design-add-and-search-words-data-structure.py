@@ -1,5 +1,4 @@
 class TrieNode:
-
     def __init__(self):
         self.children = {}
         self.end_of_word = False
@@ -20,26 +19,27 @@ class WordDictionary:
         curr.end_of_word = True
 
     def search(self, word: str) -> bool:
-        
+
         def dfs(index, node):
             if index == len(word):
                 return node.end_of_word
             
-            curr = word[index]
+            ch = word[index]
 
-            if curr == '.':
+            if ch == '.':
                 for child in node.children.values():
                     if dfs(index+1, child):
                         return True
                 return False
             else:
-                if word[index] not in node.children:
+                if ch not in node.children:
                     return False
-                node = node.children[word[index]]
+                node = node.children[ch]
 
                 return dfs(index+1, node)
-        
+                    
         return dfs(0, self.root)
+        
 
 
 # Your WordDictionary object will be instantiated and called as such:

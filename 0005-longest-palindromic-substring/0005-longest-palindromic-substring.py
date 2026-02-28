@@ -6,15 +6,15 @@ class Solution:
                 left -= 1
                 right += 1
             return s[left+1:right]
-        
-        longest = ""
 
+        longest = ""
+        
         for i in range(len(s)):
-            
+
             odd = expandAroundCenter(i,i)
-            even = expandAroundCenter(i, i+1)
+            even = expandAroundCenter(i,i+1)
 
             longer = odd if len(odd) > len(even) else even
             longest = longest if len(longest) > len(longer) else longer
-        
+
         return longest

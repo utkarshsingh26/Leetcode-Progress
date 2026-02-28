@@ -1,16 +1,13 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-
-        graph = defaultdict(list)
+        
         result = []
+        graph = defaultdict(list)
 
         for s in strs:
-            sorted_s = "".join(sorted(s))
-            graph[sorted_s].append(s)
+            graph["".join(sorted(s))].append(s)
         
-        for key,value in graph.items():
-            result.append(value)
+        for key,val in graph.items():
+            result.append(val)
         
         return result
-        
-        

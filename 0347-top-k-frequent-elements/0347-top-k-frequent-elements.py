@@ -1,21 +1,15 @@
+from collections import Counter
 import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        
-        hashmap = {}
+
+        count = Counter(nums)
         heap = []
 
-        for i in range(len(nums)):
-            if nums[i] not in hashmap:
-                hashmap[nums[i]] = 1
-            else:
-                hashmap[nums[i]] += 1
-        
-        for key, value in hashmap.items():
+        for key,val in count.items():
             if len(heap) < k:
-                heapq.heappush(heap, (value, key))
+                heapq.heappush(heap,(val, key))
             else:
-                heapq.heappushpop(heap, (value, key))
+                heapq.heappushpop(heap, (val, key))
         
-        return list(value for _,value in heap)
-        
+        return [key for _,key in heap]

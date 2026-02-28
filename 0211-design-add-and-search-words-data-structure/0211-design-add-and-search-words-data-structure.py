@@ -19,7 +19,7 @@ class WordDictionary:
         curr.end_of_word = True
 
     def search(self, word: str) -> bool:
-
+        
         def dfs(index, node):
             if index == len(word):
                 return node.end_of_word
@@ -37,9 +37,8 @@ class WordDictionary:
                 node = node.children[ch]
 
                 return dfs(index+1, node)
-                    
-        return dfs(0, self.root)
         
+        return dfs(0, self.root)
 
 
 # Your WordDictionary object will be instantiated and called as such:

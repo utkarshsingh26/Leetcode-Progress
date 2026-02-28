@@ -4,10 +4,10 @@ class Solution:
         xor_all = 0
         xor_num = 0
 
-        for num in nums:
-            xor_num ^= num
-        
-        for i in range(len(nums)+1):
+        for i in range(0, len(nums)+1):
             xor_all ^= i
         
-        return xor_num ^ xor_all
+        for num in nums:
+            xor_num ^= num
+
+        return xor_all ^ xor_num

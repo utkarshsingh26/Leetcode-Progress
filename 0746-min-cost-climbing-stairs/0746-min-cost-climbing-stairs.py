@@ -5,7 +5,6 @@ class Solution:
             return min(cost[0], cost[1])
         
         dp = [0] * len(cost)
-
         dp[0] = cost[0]
         dp[1] = cost[1]
 

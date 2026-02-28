@@ -5,10 +5,9 @@ class Solution:
         result = []
 
         for interval in intervals:
-            if not result or interval[0] > result[-1][1]:
+            if not result or result[-1][1] < interval[0]:
                 result.append(interval)
-            
-            if interval[0] <= result[-1][1]:
+            else:
                 result[-1][0] = min(result[-1][0], interval[0])
                 result[-1][1] = max(result[-1][1], interval[1])
         

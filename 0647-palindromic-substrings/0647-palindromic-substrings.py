@@ -12,10 +12,10 @@ class Solution:
         count = 0
 
         for i in range(len(s)):
-
+            
             odd = expandAroundCenter(i,i)
             even = expandAroundCenter(i,i+1)
 
-            count += (odd + even)
-
+            count += (even + odd)
+        
         return count

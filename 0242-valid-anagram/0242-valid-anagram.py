@@ -5,4 +5,7 @@ class Solution:
         count_s = Counter(s)
         count_t = Counter(t)
 
-        return count_s == count_t
+        if count_s == count_t:
+            return True
+        else:
+            return False

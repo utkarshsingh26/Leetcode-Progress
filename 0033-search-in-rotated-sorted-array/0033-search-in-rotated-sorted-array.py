@@ -3,44 +3,47 @@ class Solution:
 
         def binarySearch(nums, target):
             left = 0
-            right = len(nums)-1
+            right = len(nums) - 1
 
             while left <= right:
-                mid = (left + right)//2
+                mid = (left + right) // 2
 
                 if nums[mid] == target:
                     return mid
                 elif nums[mid] < target:
+                    print("here")
                     left = mid + 1
                 else:
                     right = mid - 1
-            
+        
             return -1
         
         left = 0
-        right = len(nums)-1
+        right = len(nums) - 1
 
         while left < right:
-            mid = (left + right)//2
+            mid = (left + right) // 2
 
             if nums[mid] > nums[right]:
                 left = mid + 1
             else:
                 right = mid
         
-        minIndex = left
-        minElement = nums[minIndex]
-
-        if target == minElement:
-            return minIndex
+        smallest = nums[left]
+        indexOfSmallest = left
         
-        if minIndex == 0:
+        if smallest == target:
+            return indexOfSmallest
+        
+        if indexOfSmallest == 0:
             return binarySearch(nums, target)
+        
+        if nums[indexOfSmallest] <= target <= nums[-1]:
+            arr = nums[indexOfSmallest:]
+            answer = binarySearch(arr, target)
+            return -1 if answer == -1 else answer + indexOfSmallest
+        elif nums[0] <= target <= nums[indexOfSmallest-1]:
+            arr = nums[:indexOfSmallest]
+            return binarySearch(arr, target)
         else:
-            if nums[0] <= target <= nums[minIndex-1]:
-                arr = nums[:minIndex]
-                return binarySearch(arr, target)
-            else:
-                arr = nums[minIndex:]
-                answer = binarySearch(arr, target)
-                return -1 if answer == -1 else answer + minIndex
+            return -1

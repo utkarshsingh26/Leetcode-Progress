@@ -53,9 +53,26 @@ singhutkarsh26's Leetcode progress
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->

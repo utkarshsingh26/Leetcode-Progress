@@ -20,7 +20,7 @@ class Solution:
                 if neighbor not in min_times:
                     heapq.heappush(min_heap, (neighbor_time + time_k_to_i, neighbor))
         
-        if len(min_times) == len(graph):
+        if len(min_times) == n:
             return max(min_times.values())
         else:
             return -1

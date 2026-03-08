@@ -7,18 +7,17 @@ class Solution:
         for u,v,time in times:
             graph[u].append((v,time))
         
-        min_times = {}
+        min_times = {} # node = time
         min_heap = [(0,k)] # time from source to node, node
 
         while min_heap:
-            time_k_to_i, i = heapq.heappop(min_heap)
-            if i in min_times:
+            time_k_to_i, node = heapq.heappop(min_heap)
+            if node in min_times:
                 continue
-            min_times[i] = time_k_to_i
+            min_times[node] = time_k_to_i
 
-            for neighbor, neighbor_time in graph[i]:
-                if neighbor not in min_times:
-                    heapq.heappush(min_heap, (time_k_to_i + neighbor_time, neighbor))
+            for neighbor, neighbor_time in graph[node]:
+                heapq.heappush(min_heap, (neighbor_time + time_k_to_i, neighbor))
         
         if len(min_times) == n:
             return max(min_times.values())

@@ -12,6 +12,7 @@ singhutkarsh26's Leetcode progress
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ singhutkarsh26's Leetcode progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ singhutkarsh26's Leetcode progress
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

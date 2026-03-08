@@ -10,6 +10,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ singhutkarsh26's Leetcode progress
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0057-insert-interval/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,6 +48,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +87,8 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->

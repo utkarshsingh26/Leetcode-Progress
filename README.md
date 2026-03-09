@@ -14,6 +14,7 @@ singhutkarsh26's Leetcode progress
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ singhutkarsh26's Leetcode progress
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Binary Search
@@ -38,6 +40,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +61,7 @@ singhutkarsh26's Leetcode progress
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

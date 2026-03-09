@@ -7,6 +7,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ singhutkarsh26's Leetcode progress
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -65,6 +67,7 @@ singhutkarsh26's Leetcode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -107,6 +110,7 @@ singhutkarsh26's Leetcode progress
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -124,6 +128,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +146,9 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->

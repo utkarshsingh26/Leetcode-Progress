@@ -1,4 +1,4 @@
-from collections import Counter
+import heapq
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         

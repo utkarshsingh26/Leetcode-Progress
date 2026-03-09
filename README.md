@@ -32,6 +32,7 @@ singhutkarsh26's Leetcode progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0704-binary-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0704-binary-search/) | Easy |
@@ -58,6 +59,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ singhutkarsh26's Leetcode progress
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -111,6 +114,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -132,6 +136,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -150,9 +155,18 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@ singhutkarsh26's Leetcode progress
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Binary Search
@@ -76,6 +77,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Minimum Spanning Tree
@@ -100,11 +102,13 @@ singhutkarsh26's Leetcode progress
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

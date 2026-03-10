@@ -6,6 +6,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ singhutkarsh26's Leetcode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -64,6 +66,7 @@ singhutkarsh26's Leetcode progress
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 ## String
@@ -196,4 +199,12 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->

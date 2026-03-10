@@ -17,7 +17,7 @@ class Solution:
             if node == end_node:
                 return prob
             
-            if node in best and best[node] <= prob:
+            if node in best and best[node] >= prob:
                 continue
             
             best[node] = prob

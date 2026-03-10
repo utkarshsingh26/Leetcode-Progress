@@ -8,8 +8,8 @@ class Solution:
             graph[edges[i][0]].append((edges[i][1], succProb[i]))
             graph[edges[i][1]].append((edges[i][0], succProb[i]))
         
-        best = {} # node = prob
         max_heap = [(-1, start_node)] # prob, node
+        best = {} # (node) = prob
 
         while max_heap:
             prob, node = heapq.heappop(max_heap)
@@ -18,14 +18,13 @@ class Solution:
             if node == end_node:
                 return prob
             
-            if node in best and best[node] >= prob:
+            if node in best and best[node] <= prob:
                 continue
             
             best[node] = prob
 
             for neighbor, neighbor_prob in graph[node]:
                 new_prob = prob * neighbor_prob
-                new_prob = -new_prob
-                heapq.heappush(max_heap, (new_prob, neighbor))
+                heapq.heappush(max_heap, (-new_prob, neighbor))
         
         return 0

@@ -1,4 +1,3 @@
-import heapq
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
         
@@ -9,7 +8,7 @@ class Solution:
             graph[edges[i][1]].append((edges[i][0], succProb[i]))
         
         max_heap = [(-1, start_node)] # prob, node
-        best = {} # (node) = prob
+        best = {} # node = prob
 
         while max_heap:
             prob, node = heapq.heappop(max_heap)
@@ -18,7 +17,7 @@ class Solution:
             if node == end_node:
                 return prob
             
-            if node in best and best[node] >= prob:
+            if node in best and best[node] <= prob:
                 continue
             
             best[node] = prob

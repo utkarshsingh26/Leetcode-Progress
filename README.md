@@ -38,6 +38,7 @@ singhutkarsh26's Leetcode progress
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
@@ -51,6 +52,7 @@ singhutkarsh26's Leetcode progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |

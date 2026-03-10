@@ -1,41 +1,31 @@
-import heapq
+from collections import deque
+from typing import List
+
 class Solution:
     def shortestPath(self, grid: List[List[int]], k: int) -> int:
-        
-        rows = len(grid)
-        columns = len(grid[0])
-        directions =[(0,1), (0,-1), (1,0), (-1,0)]
-        min_heap = [(0,0,0,0)] # steps, row, column, obstacles_used
-        visited = set()
+        rows, cols = len(grid), len(grid[0])
 
-        while min_heap:
-            steps, row, column, obstacles_used = heapq.heappop(min_heap)
+        if k >= rows + cols - 2:
+            return rows + cols - 2
 
-            if row == rows-1 and column == columns-1:
+        queue = deque([(0, 0, 0, 0)])  # row, col, steps, obstacles_used
+        visited = set([(0, 0, 0)])
+        directions = [(0,1), (0,-1), (1,0), (-1,0)]
+
+        while queue:
+            row, col, steps, used = queue.popleft()
+
+            if row == rows - 1 and col == cols - 1:
                 return steps
-            
-            if obstacles_used > k:
-                continue
-            
-            if (row, column, obstacles_used) in visited:
-                continue
-            
-            visited.add((row, column, obstacles_used))
 
             for dr, dc in directions:
-                nr, nc = row + dr, column + dc
-                new_obstacles_used = obstacles_used + 1
+                nr, nc = row + dr, col + dc
 
-                if 0 <= nr < rows and 0 <= nc < columns and (nr, nc, new_obstacles_used) not in visited:
+                if 0 <= nr < rows and 0 <= nc < cols:
+                    new_used = used + grid[nr][nc]
 
-                    # respect the obstacle
-                    if grid[nr][nc] == 0:
-                        new_steps = steps + 1
-                        heapq.heappush(min_heap, (new_steps, nr, nc, obstacles_used))
+                    if new_used <= k and (nr, nc, new_used) not in visited:
+                        visited.add((nr, nc, new_used))
+                        queue.append((nr, nc, steps + 1, new_used))
 
-                    # destroy the obstacle
-                    if grid[nr][nc] == 1 and new_obstacles_used <= k:
-                        new_steps = steps + 1
-                        heapq.heappush(min_heap, (new_steps, nr, nc, new_obstacles_used))
-        
         return -1

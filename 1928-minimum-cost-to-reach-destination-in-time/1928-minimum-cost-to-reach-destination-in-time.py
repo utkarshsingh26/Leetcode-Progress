@@ -1,15 +1,14 @@
-import heapq
 class Solution:
     def minCost(self, maxTime: int, edges: List[List[int]], passingFees: List[int]) -> int:
         
         graph = defaultdict(list)
 
         for x,y,time in edges:
-            graph[x].append((y, time))
+            graph[x].append((y,time))
             graph[y].append((x, time))
         
+        min_heap = [(passingFees[0], 0, 0)] #cost, node, time
         best = {} # (node, time) = cost
-        min_heap = [(passingFees[0], 0, 0)] # cost, node, time
 
         while min_heap:
             cost, node, time = heapq.heappop(min_heap)
@@ -26,8 +25,8 @@ class Solution:
             best[(node, time)] = cost
 
             for neighbor, neighbor_time in graph[node]:
-                new_cost = cost + passingFees[neighbor]
                 new_time = time + neighbor_time
+                new_cost = cost + passingFees[neighbor]
 
                 if new_time <= maxTime:
                     heapq.heappush(min_heap, (new_cost, neighbor, new_time))

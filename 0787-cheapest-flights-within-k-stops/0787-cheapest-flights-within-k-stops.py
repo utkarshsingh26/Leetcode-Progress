@@ -7,26 +7,26 @@ class Solution:
         for source, destination, price in flights:
             graph[source].append((destination, price))
         
-        best = {} # (node, flights_used) = cost
-        min_heap = [(0,src,0)] # cost, node, flight_used
+        best = {} # (city, stops) = cost
+        min_heap = [(0,src,0)] # cost, city, stops
 
         while min_heap:
-            cost, node, flights_used = heapq.heappop(min_heap)
+            cost, city, stops = heapq.heappop(min_heap)
 
-            if node == dst:
+            if city == dst:
                 return cost
             
-            if flights_used == k+1:
+            if stops > k:
                 continue
             
-            for neighbor, neighbor_cost in graph[node]:
-                new_cost = cost + neighbor_cost
-                new_flights_used = flights_used + 1
-                
-                state = (neighbor, new_flights_used)
+            if (city, stops) in best and best[(city, stops)] >= cost:
+                continue
+            
+            best[(city, stops)] = cost
 
-                if state not in best or new_cost < best[state]:
-                    best[state] = new_cost
-                    heapq.heappush(min_heap, (new_cost, neighbor, new_flights_used))
-        
+            for neighbor, neighbor_cost in graph[city]:
+                new_stops = stops + 1
+                new_cost = cost + neighbor_cost
+                heapq.heappush(min_heap, (new_cost, neighbor, new_stops))
+
         return -1

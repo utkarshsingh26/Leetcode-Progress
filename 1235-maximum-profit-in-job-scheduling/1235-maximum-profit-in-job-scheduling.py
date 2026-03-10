@@ -15,9 +15,10 @@ class Solution:
             result1 = recursive(i+1)
 
             # take the job
-            j = i+1
-            while j < len(jobs) and jobs[i][1] > jobs[j][0]:
-                j += 1
+            # j = i+1
+            # while j < len(jobs) and jobs[i][1] > jobs[j][0]:
+            #     j += 1
+            j = bisect.bisect_right(jobs, (jobs[i][1], -1, -1))
             result2 = jobs[i][2] + recursive(j)
 
             # return the result

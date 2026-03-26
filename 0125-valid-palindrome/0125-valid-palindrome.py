@@ -4,7 +4,7 @@ class Solution:
         s = s.lower()
         s = [x for x in s if x.isalnum()]
         left = 0
-        right = len(s)-1
+        right = len(s) - 1
 
         while left < right:
             if s[left] != s[right]:

@@ -35,6 +35,7 @@ singhutkarsh26's Leetcode progress
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -70,6 +71,7 @@ singhutkarsh26's Leetcode progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
+| [0217-contains-duplicate](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -91,6 +93,7 @@ singhutkarsh26's Leetcode progress
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |

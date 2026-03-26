@@ -3,4 +3,7 @@ class Solution:
         
         sett = set(nums)
 
-        return not len(sett) == len(nums)
+        if len(sett) == len(nums):
+            return False
+        else:
+            return True

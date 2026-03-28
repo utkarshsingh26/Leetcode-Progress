@@ -1,8 +1,8 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         
-        sett = set()
         max_length = 0
+        sett = set()
         left = 0
 
         for right in range(len(s)):
@@ -12,5 +12,5 @@ class Solution:
             sett.add(s[right])
             length = (right - left) + 1
             max_length = max(max_length, length)
-        
+
         return max_length

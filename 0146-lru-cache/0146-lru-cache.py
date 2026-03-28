@@ -1,77 +1,69 @@
 class Node:
-    def __init__(self, key: int, value: int):
+    def __init__(self, key, val):
         self.key = key
-        self.value = value
-        self.next = None
+        self.val = val
         self.prev = None
-        
+        self.next = None
+
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.head = Node(0,0)
-        self.tail = Node(0,0)
-        self.head.next = self.tail
-        self.tail.prev = self.head
+        self.start = Node(0,0)
+        self.end = Node(0,0)
+        self.start.next = self.end
+        self.end.prev = self.start
 
-        self.cache = {}
         self.capacity = capacity
+        self.cache = {}
+    
+    def _remove_from_list(self, node):
+        previous_node = node.prev
+        next_node = node.next
+
+        node.prev = None
+        node.next = None
+
+        previous_node.next = next_node
+        next_node.prev = previous_node
+    
+    def _add_to_front(self, node):
+        current_top = self.start.next
+
+        self.start.next = node
+        node.prev = self.start
+
+        node.next = current_top
+        current_top.prev = node
 
     def get(self, key: int) -> int:
         if key not in self.cache:
             return -1
-        else:
-            node = self.cache[key]
-            self._remove_from_place(node)
-            self._add_to_front(node)
-            return node.value
-
-    def _remove_from_place(self, node:Node):
-        behind_this_node = node.prev
-        ahead_this_node = node.next
-        node.prev = None
-        node.next = None
-        behind_this_node.next = ahead_this_node
-        ahead_this_node.prev = behind_this_node
-
-    def _add_to_front(self, node: Node):
-        nxt = self.head.next
-
-        self.head.next = node
-        node.prev = self.head
-
-        node.next = nxt
-        nxt.prev = node
-    
-    def _remove_from_back(self):
-        concerned_node = self.tail.prev
-        node_behind_concerned_node = concerned_node.prev
-
-        concerned_node.prev = None
-        concerned_node.next = None
-
-        node_behind_concerned_node.next = self.tail
-        self.tail.prev = node_behind_concerned_node
-
-        return concerned_node.key 
+        
+        node = self.cache[key]
+        self._remove_from_list(node)
+        self._add_to_front(node)
+        return node.val
 
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
             node = self.cache[key]
-            node.value = value
-            self._remove_from_place(node)
+            node.val = value
+            self._remove_from_list(node)
             self._add_to_front(node)
         else:
-            node = Node(key, value)
-
             if len(self.cache) < self.capacity:
+                node = Node(key,value)
                 self.cache[key] = node
                 self._add_to_front(node)
-            else:
-                key_to_be_evicted = self._remove_from_back()
-                del self.cache[key_to_be_evicted]
-                # self.cache.remove(key_to_be_evicted)
+            elif len(self.cache) == self.capacity:
+                last_node = self.end.prev
+                self._remove_from_list(last_node)
+                del self.cache[last_node.key]
+
+                node = Node(key,value)
                 self.cache[key] = node
                 self._add_to_front(node)
+
 
 
 

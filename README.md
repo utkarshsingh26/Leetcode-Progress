@@ -181,6 +181,7 @@ singhutkarsh26's Leetcode progress
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0206-reverse-linked-list/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

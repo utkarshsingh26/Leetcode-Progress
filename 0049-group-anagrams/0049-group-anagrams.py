@@ -2,11 +2,12 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
         graph = defaultdict(list)
-        result = []
 
         for s in strs:
-            graph["".join(sorted(s))].append(s)
+            graph[''.join(sorted(s))].append(s)
         
+        result = []
+
         for key,val in graph.items():
             result.append(val)
         

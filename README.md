@@ -88,6 +88,7 @@ singhutkarsh26's Leetcode progress
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Sorting
@@ -215,6 +216,7 @@ singhutkarsh26's Leetcode progress
 | [0011-container-with-most-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0125-valid-palindrome](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

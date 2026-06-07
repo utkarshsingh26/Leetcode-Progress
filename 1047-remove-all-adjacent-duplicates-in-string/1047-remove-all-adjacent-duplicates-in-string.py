@@ -11,9 +11,4 @@ class Solution:
             elif stack and stack[-1] == s[i]:
                 stack.pop()
         
-        result = ""
-
-        for char in range(len(stack)):
-            result = result + "".join(stack[char])
-        
-        return result
+        return "".join(stack)

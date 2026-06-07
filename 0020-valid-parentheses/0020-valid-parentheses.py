@@ -1,20 +1,23 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        hashmap = {
-            ")" : "(",
+        
+        maps = {
             "}" : "{",
+            ")" : "(",
             "]" : "["
         }
 
+        stack = []
+
         for char in s:
-            if char not in hashmap:
+            if not stack or char not in maps:
                 stack.append(char)
-            else:
-                if not stack or stack.pop() != hashmap[char]:
-                    return False
+            elif stack and char in maps and stack[-1] == maps[char]:
+                stack.pop()
+            elif stack and char in maps and stack[-1] != maps[char]:
+                return False
         
-        if len(stack) != 0:
-            return False
-        else:
+        if len(stack) == 0:
             return True
+        else:
+            return False

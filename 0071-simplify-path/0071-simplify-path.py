@@ -6,9 +6,9 @@ class Solution:
         parts = path.split("/")
 
         for part in parts:
-            if (part == "") or (part == ".") or (not stack and part == ".."):
+            if part == "" or part == "." or (part == ".." and not stack):
                 continue
-            elif stack and part == "..":
+            elif part == ".." and stack:
                 stack.pop()
             else:
                 stack.append(part)

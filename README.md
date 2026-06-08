@@ -97,6 +97,7 @@ singhutkarsh26's Leetcode progress
 | [0344-reverse-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
@@ -122,6 +123,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0071-simplify-path/) | Medium |
+| [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Union-Find
@@ -201,6 +203,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |

@@ -3,12 +3,10 @@ class Solution:
         
         stack = []
 
-        for i in range(len(s)):
-            if not stack:
-                stack.append(s[i])
-            elif stack and stack[-1] != s[i]:
-                stack.append(s[i])
-            elif stack and stack[-1] == s[i]:
+        for char in s:
+            if not stack or stack[-1] != char:
+                stack.append(char)
+            elif stack[-1] == char:
                 stack.pop()
         
         return "".join(stack)

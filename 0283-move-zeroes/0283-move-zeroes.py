@@ -13,3 +13,4 @@ class Solution:
         while write < len(nums):
             nums[write] = 0
             write += 1
+        

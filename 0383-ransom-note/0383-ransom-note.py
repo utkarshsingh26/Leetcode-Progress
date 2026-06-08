@@ -4,8 +4,8 @@ class Solution:
         countR = Counter(ransomNote)
         countM = Counter(magazine)
 
-        for char in countR:
-            if countM[char] < countR[char]:
+        for char in ransomNote:
+            if countR[char] > countM[char]:
                 return False
         
         return True

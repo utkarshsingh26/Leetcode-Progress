@@ -4,11 +4,11 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
         x, y = m-1, n-1
-        
+
         for z in range(m+n-1, -1, -1):
             if x < 0:
                 nums1[z] = nums2[y]
-                y -= 1 
+                y -= 1
             elif y < 0:
                 break
             elif nums1[x] > nums2[y]:
@@ -17,6 +17,3 @@ class Solution:
             else:
                 nums1[z] = nums2[y]
                 y -= 1
-                # [1,2,3,0,5,6]
-                # x is at 3
-                # y is at 2

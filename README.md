@@ -85,6 +85,7 @@ singhutkarsh26's Leetcode progress
 | [0383-ransom-note](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ singhutkarsh26's Leetcode progress
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -240,6 +242,7 @@ singhutkarsh26's Leetcode progress
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -271,6 +274,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

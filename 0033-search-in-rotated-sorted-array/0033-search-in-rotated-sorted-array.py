@@ -11,13 +11,12 @@ class Solution:
                 if nums[mid] == target:
                     return mid
                 elif nums[mid] < target:
-                    print("here")
                     left = mid + 1
                 else:
                     right = mid - 1
-        
+            
             return -1
-        
+
         left = 0
         right = len(nums) - 1
 
@@ -29,21 +28,19 @@ class Solution:
             else:
                 right = mid
         
-        smallest = nums[left]
-        indexOfSmallest = left
+        if nums[left] == target:
+            return left
         
-        if smallest == target:
-            return indexOfSmallest
-        
-        if indexOfSmallest == 0:
+        if left == 0:
             return binarySearch(nums, target)
-        
-        if nums[indexOfSmallest] <= target <= nums[-1]:
-            arr = nums[indexOfSmallest:]
-            answer = binarySearch(arr, target)
-            return -1 if answer == -1 else answer + indexOfSmallest
-        elif nums[0] <= target <= nums[indexOfSmallest-1]:
-            arr = nums[:indexOfSmallest]
-            return binarySearch(arr, target)
         else:
-            return -1
+            left_half = nums[:left]
+            right_half = nums[left:]
+            
+            if left_half[0] <= target <= left_half[-1]:
+                return binarySearch(left_half, target)
+            elif right_half[0] <= target <= right_half[-1]:
+                temp_answer = binarySearch(right_half, target)
+                return -1 if temp_answer == -1 else temp_answer + left
+            else:
+                return -1

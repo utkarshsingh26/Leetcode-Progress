@@ -5,19 +5,20 @@ class Solution:
         right = max(piles)
         answer = right
 
-        def hoursEaten(n):
-            hours = 0
+        def hoursTaken(mid):
+            count = 0
             for pile in piles:
-                hours += math.ceil(float(pile)/n)
-            return hours
-        
-        while left <= right:
-            mid = (left + right)//2
+                count += (math.ceil(int(pile)/mid))
+            return count
 
-            if hoursEaten(mid) <= h:
+        while left <= right:
+            mid = (left + right) // 2
+
+            if hoursTaken(mid) <= h:
                 answer = mid
                 right = mid - 1
             else:
                 left = mid + 1
         
         return answer
+

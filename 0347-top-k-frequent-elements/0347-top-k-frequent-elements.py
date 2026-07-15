@@ -3,12 +3,12 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         
         count = Counter(nums)
-        heap = []
-        
+        result = []
+
         for key,val in count.items():
-            if len(heap) < k:
-                heapq.heappush(heap, (val, key))
+            if len(result) < k:
+                heapq.heappush(result, (val, key))
             else:
-                heapq.heappushpop(heap, (val, key))
+                heapq.heappushpop(result, (val, key))
         
-        return [key for _,key in heap]
+        return [key for _,key in result]

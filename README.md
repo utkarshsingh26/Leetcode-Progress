@@ -135,6 +135,7 @@ singhutkarsh26's Leetcode progress
 | [0020-valid-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -264,6 +265,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0155-min-stack/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Randomized

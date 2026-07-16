@@ -6,10 +6,8 @@ class Solution:
 
         for right in range(len(prices)):
             profit = prices[right] - prices[left]
-
             if profit < 0:
                 left = right
-
             max_profit = max(max_profit, profit)
         
         return max_profit

@@ -42,6 +42,7 @@ singhutkarsh26's Leetcode progress
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -142,6 +143,7 @@ singhutkarsh26's Leetcode progress
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0200-number-of-islands/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
@@ -160,6 +162,7 @@ singhutkarsh26's Leetcode progress
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -167,6 +170,7 @@ singhutkarsh26's Leetcode progress
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -212,6 +216,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0200-number-of-islands/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 ## Recursion

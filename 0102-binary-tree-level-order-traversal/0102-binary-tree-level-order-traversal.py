@@ -18,10 +18,8 @@ class Solution:
             queue.append(node)
 
             while queue:
-                level_length = len(queue)
                 level = []
-                for _ in range(level_length):
-
+                for _ in range(len(queue)):
                     treeNode = queue.popleft()
 
                     if treeNode.left:
@@ -29,10 +27,10 @@ class Solution:
                     
                     if treeNode.right:
                         queue.append(treeNode.right)
-        
+                    
                     level.append(treeNode.val)
                 
                 result.append(level)
-        
+            
         bfs(root)
         return result

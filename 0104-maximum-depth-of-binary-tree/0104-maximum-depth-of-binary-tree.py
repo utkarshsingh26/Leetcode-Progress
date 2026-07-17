@@ -14,6 +14,8 @@ class Solution:
             left = height(node.left)
             right = height(node.right)
 
-            return 1 + max(left, right)
+            depth = 1 + max(left, right)
+
+            return depth
         
         return height(root)

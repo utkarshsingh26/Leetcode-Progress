@@ -181,6 +181,7 @@ singhutkarsh26's Leetcode progress
 | [0200-number-of-islands](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0695-max-area-of-island/) | Medium |
@@ -196,6 +197,7 @@ singhutkarsh26's Leetcode progress
 | [0200-number-of-islands](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0695-max-area-of-island/) | Medium |
@@ -342,6 +344,7 @@ singhutkarsh26's Leetcode progress
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -350,6 +353,7 @@ singhutkarsh26's Leetcode progress
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |

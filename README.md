@@ -184,6 +184,7 @@ singhutkarsh26's Leetcode progress
 | [0210-course-schedule-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
@@ -348,6 +349,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -358,6 +360,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |

@@ -9,17 +9,17 @@ class Solution:
         
         is_balanced = [True]
 
-        def height(node):
+        def dfs(node):
             if not node:
                 return 0
             
-            left = height(node.left)
-            right = height(node.right)
+            left = dfs(node.left)
+            right = dfs(node.right)
 
             if abs(right - left) > 1:
                 is_balanced[0] = False
 
             return 1 + max(left, right)
         
-        height(root)
+        dfs(root)
         return is_balanced[0]

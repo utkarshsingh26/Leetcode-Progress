@@ -176,6 +176,7 @@ singhutkarsh26's Leetcode progress
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0130-surrounded-regions/) | Medium |
@@ -194,6 +195,7 @@ singhutkarsh26's Leetcode progress
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0130-surrounded-regions/) | Medium |
@@ -348,6 +350,7 @@ singhutkarsh26's Leetcode progress
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
@@ -360,6 +363,7 @@ singhutkarsh26's Leetcode progress
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |

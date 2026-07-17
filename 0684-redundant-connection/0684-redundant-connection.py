@@ -9,7 +9,7 @@ class Solution:
                 return True
             
             visited.add(node1)
-            
+
             for neighbor in graph[node1]:
                 if neighbor not in visited:
                     if cycle(neighbor, node2):
@@ -18,9 +18,13 @@ class Solution:
             return False
         
         for u,v in edges:
-            if u in graph and v in graph:
+            if u in graph or v in graph:
                 visited.clear()
                 if cycle(u,v):
                     return [u,v]
             graph[u].append(v)
             graph[v].append(u)
+            
+
+        
+        

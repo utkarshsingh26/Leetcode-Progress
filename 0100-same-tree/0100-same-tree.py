@@ -13,5 +13,5 @@ class Solution:
             return False
         elif p.val != q.val:
             return False
-        elif p.val == q.val:
+        else:
             return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)

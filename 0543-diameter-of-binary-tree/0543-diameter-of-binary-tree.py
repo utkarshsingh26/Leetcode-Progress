@@ -9,16 +9,16 @@ class Solution:
         
         max_diameter = [0]
 
-        def height(node):
+        def dfs(node):
             if not node:
                 return 0
             
-            left = height(node.left)
-            right = height(node.right)
-            diameter = left + right
-            max_diameter[0] = max(max_diameter[0], diameter)
-
+            left = dfs(node.left)
+            right = dfs(node.right)
+            diamater = left + right
+            max_diameter[0] = max(diamater, max_diameter[0])
+            
             return 1 + max(left, right)
         
-        height(root)
+        dfs(root)
         return max_diameter[0]

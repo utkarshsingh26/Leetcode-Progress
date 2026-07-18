@@ -187,6 +187,7 @@ singhutkarsh26's Leetcode progress
 | [0207-course-schedule](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -364,6 +365,7 @@ singhutkarsh26's Leetcode progress
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -372,6 +374,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -383,6 +386,7 @@ singhutkarsh26's Leetcode progress
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |

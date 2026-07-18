@@ -3,13 +3,17 @@ class Solution:
         
         intervals += [newInterval]
         intervals.sort(key=lambda x:x[0])
+        
         result = []
 
         for interval in intervals:
-            if not result or result[-1][1] < interval[0]:
+            if not result:
                 result.append(interval)
-            else:
+            
+            if interval[0] <= result[-1][1]:
                 result[-1][0] = min(result[-1][0], interval[0])
                 result[-1][1] = max(result[-1][1], interval[1])
+            else:
+                result.append(interval)
         
         return result

@@ -9,16 +9,19 @@ class Solution:
         
         good = [0]
 
-        def dfs(node, max_val):
+        def dfs(node, value):
             if not node:
-                return None
+                return
             
-            if node.val >= max_val:
+            if node.val >= value:
                 good[0] += 1
-                max_val = node.val
+                value = node.val
             
-            dfs(node.left, max_val)
-            dfs(node.right, max_val)
+            if node.left:
+                dfs(node.left, value)
+            
+            if node.right:
+                dfs(node.right, value)
         
         dfs(root, root.val)
         return good[0]

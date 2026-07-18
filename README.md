@@ -38,6 +38,7 @@ singhutkarsh26's Leetcode progress
 | [0057-insert-interval](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0088-merge-sorted-array/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -88,6 +89,7 @@ singhutkarsh26's Leetcode progress
 | [0001-two-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0133-clone-graph/) | Medium |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
@@ -249,6 +251,7 @@ singhutkarsh26's Leetcode progress
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -362,6 +365,7 @@ singhutkarsh26's Leetcode progress
 | [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |
@@ -383,6 +387,7 @@ singhutkarsh26's Leetcode progress
 | [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0226-invert-binary-tree/) | Easy |

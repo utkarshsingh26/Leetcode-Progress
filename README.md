@@ -176,6 +176,7 @@ singhutkarsh26's Leetcode progress
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -356,6 +357,7 @@ singhutkarsh26's Leetcode progress
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -369,10 +371,12 @@ singhutkarsh26's Leetcode progress
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |

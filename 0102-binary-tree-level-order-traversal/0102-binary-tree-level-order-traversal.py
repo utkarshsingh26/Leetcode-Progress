@@ -27,10 +27,9 @@ class Solution:
                     
                     if treeNode.right:
                         queue.append(treeNode.right)
-                    
+
                     level.append(treeNode.val)
-                
                 result.append(level)
-            
+        
         bfs(root)
         return result

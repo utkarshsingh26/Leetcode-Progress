@@ -194,6 +194,7 @@ singhutkarsh26's Leetcode progress
 | [0743-network-delay-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +217,7 @@ singhutkarsh26's Leetcode progress
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0994-rotting-oranges/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +365,7 @@ singhutkarsh26's Leetcode progress
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +382,7 @@ singhutkarsh26's Leetcode progress
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |

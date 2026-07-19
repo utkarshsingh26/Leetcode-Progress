@@ -7,4 +7,4 @@ class Solution:
             if nums[i] + i >= goal:
                 goal = i
         
-        return goal == 0
+        return True if goal == 0 else False

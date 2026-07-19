@@ -7,6 +7,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -53,6 +54,7 @@ singhutkarsh26's Leetcode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -81,6 +83,7 @@ singhutkarsh26's Leetcode progress
 | [0074-search-a-2d-matrix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -103,6 +106,7 @@ singhutkarsh26's Leetcode progress
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0383-ransom-note/) | Easy |
@@ -141,6 +145,7 @@ singhutkarsh26's Leetcode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -270,6 +275,7 @@ singhutkarsh26's Leetcode progress
 | ------- | ------- |
 | [0136-single-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

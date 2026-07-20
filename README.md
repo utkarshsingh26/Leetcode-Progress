@@ -80,6 +80,7 @@ singhutkarsh26's Leetcode progress
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -269,6 +270,7 @@ singhutkarsh26's Leetcode progress
 | [0134-gas-station](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

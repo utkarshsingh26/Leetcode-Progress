@@ -12,6 +12,6 @@ class Solution:
 
             if summ < 0:
                 summ = 0
-                start = i + 1
+                start = i+1
         
         return start

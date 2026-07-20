@@ -12,4 +12,4 @@ class Solution:
                 if triplet[2] == target[2]:
                     result[2] = True
 
-        return all(result) 
+        return True if all(result) else False

@@ -14,6 +14,7 @@ singhutkarsh26's Leetcode progress
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -38,6 +39,7 @@ singhutkarsh26's Leetcode progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0057-insert-interval/) | Medium |
@@ -268,6 +270,7 @@ singhutkarsh26's Leetcode progress
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |

@@ -14,6 +14,7 @@ singhutkarsh26's Leetcode progress
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
@@ -125,6 +126,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
@@ -331,6 +333,7 @@ singhutkarsh26's Leetcode progress
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0088-merge-sorted-array/) | Easy |

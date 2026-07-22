@@ -5,6 +5,7 @@ singhutkarsh26's Leetcode progress
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |

@@ -15,6 +15,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
@@ -40,6 +41,7 @@ singhutkarsh26's Leetcode progress
 | [0014-longest-common-prefix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
@@ -167,6 +169,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0155-min-stack/) | Medium |
@@ -338,6 +341,7 @@ singhutkarsh26's Leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0141-linked-list-cycle/) | Easy |
@@ -447,4 +451,8 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->

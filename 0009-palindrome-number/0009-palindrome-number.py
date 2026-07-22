@@ -3,14 +3,13 @@ class Solution:
         
         if x < 0:
             return False
-        
-        string = str(x)
 
+        s = str(x)
         left = 0
-        right = len(string)-1
+        right = len(s)-1
 
         while left < right:
-            if string[left] != string[right]:
+            if s[left] != s[right]:
                 return False
             left += 1
             right -= 1

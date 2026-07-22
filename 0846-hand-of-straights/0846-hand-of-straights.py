@@ -1,16 +1,15 @@
-from collections import Counter
 class Solution:
     def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
         
         hand.sort()
-        count = Counter(hand)
+        counter = Counter(hand)
+        print(counter)
 
         for card in hand:
-            if count[card] > 0:
-                for newCard in range(card, card + groupSize):
-                    if count[newCard] <= 0:
+            if counter[card] > 0:
+                for new_card in range(card, card + groupSize):
+                    if counter[new_card] <= 0:
                         return False
-                    count[newCard] -= 1
+                    counter[new_card] -= 1
         
         return True
-        

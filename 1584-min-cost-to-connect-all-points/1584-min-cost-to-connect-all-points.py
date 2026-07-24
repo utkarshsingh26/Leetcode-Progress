@@ -3,21 +3,21 @@ class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
         
         seen = set()
-        min_heap = [(0,0)] # distance fromm source to node i, node i
         cost = 0
+        heap = [(0,0)] # dist to node, node
 
         while len(seen) < len(points):
-            distance, i = heapq.heappop(min_heap)
+            dist, i = heapq.heappop(heap)
             if i in seen:
                 continue
             seen.add(i)
-            cost += distance
+            cost += dist
             xi, yi = points[i]
 
             for j in range(len(points)):
                 if j not in seen:
                     xj, yj = points[j]
-                    manhattan_distance = abs(xi-xj) + abs(yi-yj)
-                    heapq.heappush(min_heap, (manhattan_distance, j))
+                    new_dist = abs(xi-xj) + abs(yi-yj)
+                    heapq.heappush(heap, (new_dist, j))
         
         return cost

@@ -6,9 +6,9 @@ class Solution:
 
         for u,v,w in flights:
             graph[u].append((v,w))
-
-        heap = [(0, src, 0)] # cost, node, stops
+        
         best = {} # (node, stops) = cost
+        heap = [(0, src, 0)] # cost, node, stops
 
         while heap:
             cost, node, stops = heapq.heappop(heap)
@@ -19,11 +19,11 @@ class Solution:
             if stops > k:
                 continue
             
-            if (node,stops) in best and best[(node,stops)] <= cost:
+            if (node, stops) in best and best[(node,stops)] >= cost:
                 continue
             
             best[(node,stops)] = cost
-
+            
             for neighbor in graph[node]:
                 new_cost = cost + neighbor[1]
                 new_stops = stops + 1

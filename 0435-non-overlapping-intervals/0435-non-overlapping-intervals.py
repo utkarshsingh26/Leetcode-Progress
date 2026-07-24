@@ -10,6 +10,5 @@ class Solution:
                 end = interval[1]
             else:
                 count += 1
-        
-        return count
 
+        return count 

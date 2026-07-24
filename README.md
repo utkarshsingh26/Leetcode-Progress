@@ -42,6 +42,7 @@ singhutkarsh26's Leetcode progress
 | [0011-container-with-most-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
@@ -162,6 +163,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0088-merge-sorted-array/) | Easy |
@@ -360,6 +362,7 @@ singhutkarsh26's Leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0088-merge-sorted-array/) | Easy |

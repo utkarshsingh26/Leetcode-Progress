@@ -19,7 +19,6 @@ class Solution:
                 return True
             else:
                 status[node] = VISITING
-
                 for neighbor in graph[node]:
                     if cycle(neighbor):
                         return True

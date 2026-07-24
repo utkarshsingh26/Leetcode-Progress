@@ -1,10 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         
-        left = [0] * len(height)
-        right = [0] * len(height)
-        result = [0] * len(height)
-
+        left, right, result = [0] * len(height), [0] * len(height), [0] * len(height)
         left[0] = height[0]
         right[-1] = height[-1]
 
@@ -19,5 +16,5 @@ class Solution:
         for i in range(len(height)):
             result[i] = min(left[i], right[i]) - height[i]
             water += result[i]
-
+        
         return water

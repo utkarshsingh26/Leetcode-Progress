@@ -7,23 +7,23 @@ class Solution:
         for u,v,w in times:
             graph[u].append((v,w))
         
-        min_times = {} # node = time
-        min_heap = [(0,k)] # time, node
+        min_times = {}
+        heap = [(0,k)] # time to reach node, node
 
-        while min_heap:
-            time, node = heapq.heappop(min_heap)
+        while heap:
+            time, node = heapq.heappop(heap)
 
             if node in min_times:
                 continue
             
             min_times[node] = time
 
-            for neighbor, neighbor_time in graph[node]:
-                new_time = time + neighbor_time
-                heapq.heappush(min_heap, (new_time, neighbor))
+            for neighbor in graph[node]:
+                if neighbor[0] not in min_times:
+                    new_time = time + neighbor[1]
+                    heapq.heappush(heap, (new_time, neighbor[0]))
 
         if len(min_times) != n:
             return -1
-        else:
-            return max(min_times.values())
 
+        return max(min_times.values())

@@ -46,6 +46,7 @@ singhutkarsh26's Leetcode progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
@@ -487,6 +488,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0090-subsets-ii/) | Medium |

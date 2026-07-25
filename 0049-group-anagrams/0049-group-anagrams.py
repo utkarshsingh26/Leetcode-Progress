@@ -8,7 +8,7 @@ class Solution:
         
         result = []
 
-        for key, val in graph.items():
+        for key,val in graph.items():
             result.append(val)
         
         return result

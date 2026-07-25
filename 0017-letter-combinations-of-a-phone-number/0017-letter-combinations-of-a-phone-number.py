@@ -13,8 +13,11 @@ class Solution:
         }
 
         def backtrack(index):
-            if index == len(digits):
+            if len(temp) == len(digits):
                 result.append("".join(temp[:]))
+                return
+
+            if index >= len(digits) or len(temp) > len(digits):
                 return
             
             for char in dictionary[digits[index]]:

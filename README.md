@@ -54,6 +54,7 @@ singhutkarsh26's Leetcode progress
 | [0056-merge-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -310,6 +311,7 @@ singhutkarsh26's Leetcode progress
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0268-missing-number/) | Easy |
@@ -483,5 +485,6 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->

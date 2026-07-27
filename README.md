@@ -49,6 +49,7 @@ singhutkarsh26's Leetcode progress
 | [0040-combination-sum-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
@@ -500,6 +501,7 @@ singhutkarsh26's Leetcode progress
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0090-subsets-ii/) | Medium |

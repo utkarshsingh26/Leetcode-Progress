@@ -5,6 +5,7 @@ singhutkarsh26's Leetcode progress
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -343,6 +344,7 @@ singhutkarsh26's Leetcode progress
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
@@ -415,6 +417,7 @@ singhutkarsh26's Leetcode progress
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0141-linked-list-cycle/) | Easy |

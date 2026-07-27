@@ -343,6 +343,7 @@ singhutkarsh26's Leetcode progress
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
@@ -413,6 +414,7 @@ singhutkarsh26's Leetcode progress
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0206-reverse-linked-list/) | Easy |

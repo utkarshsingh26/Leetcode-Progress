@@ -2,14 +2,16 @@ import heapq
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
         
-        seen = set()
         cost = 0
-        heap = [(0,0)] # dist to node, node
+        heap = [(0,0)] # cost, node
+        seen = set()
 
-        while len(seen) < len(points):
+        while len(seen) < len((points)):
             dist, i = heapq.heappop(heap)
+
             if i in seen:
                 continue
+            
             seen.add(i)
             cost += dist
             xi, yi = points[i]

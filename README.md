@@ -22,6 +22,7 @@ singhutkarsh26's Leetcode progress
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0213-house-robber-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -155,6 +156,7 @@ singhutkarsh26's Leetcode progress
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
@@ -505,4 +507,5 @@ singhutkarsh26's Leetcode progress
 | [0078-subsets](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->

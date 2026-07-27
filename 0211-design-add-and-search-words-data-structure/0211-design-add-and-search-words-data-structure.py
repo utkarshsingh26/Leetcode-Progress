@@ -35,12 +35,11 @@ class WordDictionary:
             else:
                 if ch not in node.children:
                     return False
-
                 node = node.children[ch]
 
                 return dfs(index+1, node)
         
-        return dfs(0, self.root)
+        return dfs(0,self.root)
 
 
 # Your WordDictionary object will be instantiated and called as such:

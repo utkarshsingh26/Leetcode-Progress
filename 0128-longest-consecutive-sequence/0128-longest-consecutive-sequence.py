@@ -10,8 +10,8 @@ class Solution:
                 next_num = num + 1
                 longer = 1
                 while next_num in sett:
-                    next_num += 1
                     longer += 1
+                    next_num += 1
                 longest = max(longer, longest)
         
         return longest

@@ -128,6 +128,7 @@ singhutkarsh26's Leetcode progress
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0169-majority-element/) | Easy |
@@ -420,6 +421,7 @@ singhutkarsh26's Leetcode progress
 | [0002-add-two-numbers](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0206-reverse-linked-list/) | Easy |

@@ -15,8 +15,9 @@ class Solution:
 
             temp.append(nums[index])
             result.add(tuple(temp[:]))
+            
             backtrack(index+1)
-
+            
             temp.pop()
         
         backtrack(0)

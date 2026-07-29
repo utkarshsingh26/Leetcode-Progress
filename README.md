@@ -29,6 +29,7 @@ singhutkarsh26's Leetcode progress
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
@@ -173,6 +174,7 @@ singhutkarsh26's Leetcode progress
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0763-partition-labels](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
@@ -207,6 +209,7 @@ singhutkarsh26's Leetcode progress
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Union-Find
@@ -314,6 +317,7 @@ singhutkarsh26's Leetcode progress
 | [0134-gas-station](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0846-hand-of-straights/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |

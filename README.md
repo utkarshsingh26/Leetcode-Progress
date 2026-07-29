@@ -146,6 +146,7 @@ singhutkarsh26's Leetcode progress
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0763-partition-labels](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0846-hand-of-straights/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ singhutkarsh26's Leetcode progress
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0763-partition-labels](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Sorting
@@ -312,6 +314,7 @@ singhutkarsh26's Leetcode progress
 | [0134-gas-station](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0763-partition-labels](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0846-hand-of-straights/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Divide and Conquer
@@ -397,6 +400,7 @@ singhutkarsh26's Leetcode progress
 | [0344-reverse-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0647-palindromic-substrings/) | Medium |
+| [0763-partition-labels](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 ## Trie
 | Problem Name | Difficulty |

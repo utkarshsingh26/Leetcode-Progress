@@ -17,6 +17,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
@@ -159,6 +160,7 @@ singhutkarsh26's Leetcode progress
 | [0014-longest-common-prefix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
@@ -523,6 +525,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0046-permutations/) | Medium |

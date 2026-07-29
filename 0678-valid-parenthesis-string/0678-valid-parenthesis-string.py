@@ -1,7 +1,7 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
         
-        leftMin = 0
+        leftMin = 0 #(
         leftMax = 0
 
         for char in s:
@@ -12,12 +12,12 @@ class Solution:
                 leftMin -= 1
                 leftMax -= 1
             else:
-                leftMin -= 1
-                leftMax += 1
-            
+                leftMin -= 1 # consider that * = )
+                leftMax += 1 # consider that * = (
+
             if leftMax < 0:
-                return False
-            
+                return False # we opened way too many (
+                
             if leftMin < 0:
                 leftMin = 0
         

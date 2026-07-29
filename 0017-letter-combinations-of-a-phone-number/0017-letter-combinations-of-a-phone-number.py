@@ -1,9 +1,6 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         
-        if not digits:
-            return []
-        
         result = []
         temp = []
 
@@ -13,11 +10,8 @@ class Solution:
         }
 
         def backtrack(index):
-            if len(temp) == len(digits):
+            if index == len(digits):
                 result.append("".join(temp[:]))
-                return
-
-            if index >= len(digits) or len(temp) > len(digits):
                 return
             
             for char in dictionary[digits[index]]:

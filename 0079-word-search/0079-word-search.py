@@ -14,9 +14,10 @@ class Solution:
             temp = board[r][c]
             board[r][c] = '#'
 
-            found = (dfs(r,c+1,index+1) or dfs(r,c-1,index+1) or dfs(r+1,c,index+1) or dfs(r-1,c,index+1))
+            found = (dfs(r+1,c,index+1) or dfs(r-1,c,index+1) or dfs(r,c+1,index+1) or dfs(r,c-1,index+1))
 
             board[r][c] = temp
+
             return found
 
         for r in range(rows):
@@ -26,3 +27,4 @@ class Solution:
                         return True
         
         return False
+            

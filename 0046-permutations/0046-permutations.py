@@ -4,27 +4,24 @@ class Solution:
         result = []
         temp = []
 
-        used = [False] * len(nums)
+        good = [False] * len(nums)
 
         def backtrack():
             if len(temp) == len(nums):
                 result.append(temp[:])
                 return
             
-            if len(temp) > len(nums):
-                return
-            
             for i in range(len(nums)):
-                if used[i]:
+                if good[i]:
                     continue
                 
                 temp.append(nums[i])
-                used[i] = True
+                good[i] = True
 
                 backtrack()
 
                 temp.pop()
-                used[i] = False
+                good[i] = False
         
         backtrack()
         return result

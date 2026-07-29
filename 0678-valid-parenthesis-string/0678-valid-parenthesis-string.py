@@ -16,9 +16,9 @@ class Solution:
                 leftMax += 1 # consider that * = (
 
             if leftMax < 0:
-                return False # we opened way too many (
+                return False # too many closing )
                 
             if leftMin < 0:
-                leftMin = 0
+                leftMin = 0 # unmatched opening count cannot be negative
         
         return leftMin == 0

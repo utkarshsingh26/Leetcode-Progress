@@ -93,6 +93,7 @@ singhutkarsh26's Leetcode progress
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0846-hand-of-straights](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0846-hand-of-straights/) | Medium |
@@ -214,6 +215,7 @@ singhutkarsh26's Leetcode progress
 | [0155-min-stack](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Union-Find
@@ -521,6 +523,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0739-daily-temperatures/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

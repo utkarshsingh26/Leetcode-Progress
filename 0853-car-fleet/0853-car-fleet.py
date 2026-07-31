@@ -3,11 +3,11 @@ class Solution:
         
         cars = list(zip(position, speed))
         cars.sort(key=lambda x:x[0], reverse=True)
-
         stack = []
 
         for position, speed in cars:
             time = (target - position) / speed
+            print(time)
 
             if not stack or time > stack[-1]:
                 stack.append(time)

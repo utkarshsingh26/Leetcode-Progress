@@ -4,15 +4,18 @@ class Solution:
         slow = nums[0]
         fast = nums[0]
 
-        while slow != fast:
+        while True:
             slow = nums[slow]
             fast = nums[fast]
             fast = nums[fast]
+
+            if slow == fast:
+                break
         
         slow = nums[0]
 
-        for _ in range(len(nums)):
+        while slow != fast:
             slow = nums[slow]
             fast = nums[fast]
         
-        return nums[slow]
+        return slow

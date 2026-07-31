@@ -3,19 +3,21 @@ class Solution:
         
         hashmap = {
             ")" : "(",
-            "}" : "{",
-            "]" : "["
+            "]" : "[",
+            "}" : "{"
         }
+
         stack = []
 
         for i in range(len(s)):
             if s[i] not in hashmap:
                 stack.append(s[i])
             else:
-                if not stack or stack.pop() != hashmap[s[i]]:
+                
+                if not stack and s[i] in hashmap:
+                    return False
+
+                if stack and stack.pop() != hashmap[s[i]]:
                     return False
         
-        if stack:
-            return False
-
-        return True
+        return True if not stack else False

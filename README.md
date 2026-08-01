@@ -132,6 +132,7 @@ singhutkarsh26's Leetcode progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -166,6 +167,7 @@ singhutkarsh26's Leetcode progress
 | [0022-generate-parentheses](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0071-simplify-path/) | Medium |
+| [0076-minimum-window-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
@@ -460,6 +462,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |

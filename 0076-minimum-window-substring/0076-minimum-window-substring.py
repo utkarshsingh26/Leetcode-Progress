@@ -4,36 +4,35 @@ class Solution:
         need = {}
         window = {}
 
-        left = 0
-        result = ""
-        result_len = float("inf")
-        
         for ch in t:
             need[ch] = need.get(ch, 0) + 1
         
+        left = 0
         have = 0
         need_count = len(need)
+        result = ""
+        result_len = float("inf")
 
         for right in range(len(s)):
             ch = s[right]
 
             window[ch] = window.get(ch, 0) + 1
 
-            if ch in need and need[ch] == window[ch]:
+            if ch in need and window[ch] == need[ch]:
                 have += 1
             
             while have == need_count:
-
+                
                 if (right - left + 1) < result_len:
                     result = s[left:right+1]
-                    result_len = right - left + 1
+                    result_len = (right - left + 1)
                 
-                left_char = s[left]
-                window[left_char] -= 1
+                ch = s[left]
+                window[ch] = window.get(ch, 0) - 1
 
-                if left_char in need and window[left_char] < need[left_char]:
+                if ch in need and window[ch] < need[ch]:
                     have -= 1
                 
                 left += 1
-
+        
         return result

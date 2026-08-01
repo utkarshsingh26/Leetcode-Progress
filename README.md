@@ -148,6 +148,7 @@ singhutkarsh26's Leetcode progress
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
@@ -176,6 +177,7 @@ singhutkarsh26's Leetcode progress
 | [0383-ransom-note](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0394-decode-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
@@ -458,6 +460,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0643-maximum-average-subarray-i/) | Easy |

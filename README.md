@@ -25,6 +25,7 @@ singhutkarsh26's Leetcode progress
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -40,6 +41,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ singhutkarsh26's Leetcode progress
 | [0130-surrounded-regions](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -141,6 +144,7 @@ singhutkarsh26's Leetcode progress
 | [0128-longest-consecutive-sequence](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0169-majority-element/) | Easy |
@@ -175,6 +179,7 @@ singhutkarsh26's Leetcode progress
 | [0125-valid-palindrome](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0242-valid-anagram/) | Easy |
@@ -426,6 +431,7 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |

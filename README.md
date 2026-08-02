@@ -23,6 +23,7 @@ singhutkarsh26's Leetcode progress
 | [0053-maximum-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
@@ -176,6 +177,7 @@ singhutkarsh26's Leetcode progress
 | [0071-simplify-path](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |

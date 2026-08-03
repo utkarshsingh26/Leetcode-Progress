@@ -27,6 +27,7 @@ singhutkarsh26's Leetcode progress
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -79,6 +80,7 @@ singhutkarsh26's Leetcode progress
 | [0136-single-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0169-majority-element/) | Easy |

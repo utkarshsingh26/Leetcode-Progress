@@ -581,4 +581,8 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->

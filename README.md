@@ -577,4 +577,8 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->

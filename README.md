@@ -31,6 +31,7 @@ singhutkarsh26's Leetcode progress
 | [0213-house-robber-ii](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0647-palindromic-substrings/) | Medium |
@@ -94,6 +95,7 @@ singhutkarsh26's Leetcode progress
 | [0322-coin-change](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -564,8 +566,13 @@ singhutkarsh26's Leetcode progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->

@@ -7,7 +7,7 @@ class Solution:
             return False
         
         target = total // 2
-        
+
         dp = [False] * (target + 1)
         dp[0] = True
 

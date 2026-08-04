@@ -4,12 +4,12 @@ class Solution:
         dp = [float("inf")] * (amount + 1)
         dp[0] = 0
 
-        for current_amount in range(1, amount + 1):
+        for curr_amount in range(1, amount + 1):
             for coin in coins:
-                if coin <= current_amount:
-                    remaining_amount = current_amount - coin
+                if coin <= curr_amount:
+                    remaining_amount = curr_amount - coin
 
-                    dp[current_amount] = min(dp[current_amount], dp[remaining_amount] + 1)
+                    dp[curr_amount] = min(dp[curr_amount], dp[remaining_amount] + 1)
         
         for i in range(len(dp)):
             if dp[i] == float("inf"):

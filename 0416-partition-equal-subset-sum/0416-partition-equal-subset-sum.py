@@ -7,13 +7,13 @@ class Solution:
             return False
         
         target = total // 2
-
+        
         dp = [False] * (target + 1)
         dp[0] = True
 
         for num in nums:
-            for curr_sum in range(target, num-1, -1):
-                if dp[curr_sum - num]:
-                    dp[curr_sum] = True
+            for i in range(target, num-1, -1):
+                if dp[i-num]:
+                    dp[i] = True
         
         return dp[-1]

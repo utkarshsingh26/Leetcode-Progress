@@ -6,11 +6,11 @@ class Solution:
 
         for i in range(1, len(s) + 1):
 
-            #Use a single index
+            # Single index
             if s[i-1] != "0":
                 dp[i] += dp[i-1]
             
-            #Use the last two indexes
+            #Two indexes
             if i >= 2:
                 two_digits = int(s[i-2] + s[i-1])
 

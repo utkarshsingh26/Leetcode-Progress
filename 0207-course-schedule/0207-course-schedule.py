@@ -7,18 +7,20 @@ class Solution:
             graph[v].append(u)
         
         UNVISITED = 0
-        VISITING = 1
+        VISITNG = 1
         VISITED = 2
 
         status = [UNVISITED] * numCourses
+        print(status)
 
         def cycle(node):
-            if status[node] == VISITED:
-                return False
-            elif status[node] == VISITING:
+            if status[node] == VISITNG:
                 return True
+            elif status[node] == VISITED:
+                return False
             else:
-                status[node] = VISITING
+                status[node] = VISITNG
+
                 for neighbor in graph[node]:
                     if cycle(neighbor):
                         return True

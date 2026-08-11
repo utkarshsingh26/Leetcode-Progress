@@ -101,6 +101,7 @@ singhutkarsh26's Leetcode progress
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/utkarshsingh26/Leetcode-Progress/tree/main/0695-max-area-of-island/) | Medium |

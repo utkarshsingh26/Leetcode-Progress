@@ -4,9 +4,10 @@ class Solution:
         
         rows = len(grid)
         columns = len(grid[0])
-        directions = [(0,1), (0,-1), (1,0), (-1,0)]
+
         fresh = [0]
         queue = deque()
+        directions = [(0,1), (0,-1), (1,0), (-1,0)]
 
         for r in range(rows):
             for c in range(columns):
@@ -17,9 +18,10 @@ class Solution:
         
         if fresh[0] == 0:
             return 0
-        
+
         def bfs(queue):
             minutes = 0
+            
             while queue:
                 for _ in range(len(queue)):
                     row, column = queue.popleft()
@@ -31,9 +33,9 @@ class Solution:
                             grid[nr][nc] = 2
                             fresh[0] -= 1
                             queue.append((nr,nc))
-
                 minutes += 1
-            
+
             return minutes-1 if fresh[0] == 0 else -1
 
+        
         return bfs(queue)

@@ -1,10 +1,9 @@
 class Node:
-
     def __init__(self, key, val):
         self.key = key
         self.val = val
-        self.next = None
         self.prev = None
+        self.next = None
 
 class LRUCache:
 
@@ -13,6 +12,7 @@ class LRUCache:
         self.cache = {}
         self.start = Node(0,0)
         self.end = Node(0,0)
+
         self.start.next = self.end
         self.end.prev = self.start
     
@@ -20,9 +20,11 @@ class LRUCache:
         before = node.prev
         after = node.next
 
+        node.next = None
+        node.prev = None
         before.next = after
         after.prev = before
-
+    
     def move_to_front(self, node):
         curr_first = self.start.next
 
@@ -35,35 +37,33 @@ class LRUCache:
     def get(self, key: int) -> int:
         if key not in self.cache:
             return -1
+
         node = self.cache[key]
         self.remove_from_list(node)
         self.move_to_front(node)
         return node.val
 
     def put(self, key: int, value: int) -> None:
+
+        if key in self.cache:
+            self.cache[key].val = value
+            node = self.cache[key]
+            self.remove_from_list(node)
+            self.move_to_front(node)
+            return
+
         if len(self.cache) < self.capacity:
-            if key not in self.cache:
-                node = Node(key, value)
-                self.move_to_front(node)
-                self.cache[key] = node
-            else:
-                node = self.cache[key]
-                node.val = value
-                self.remove_from_list(node)
-                self.move_to_front(node)
+            node = Node(key, value)
+            self.move_to_front(node)
+            self.cache[key] = node
         else:
-            if key not in self.cache:
-                to_be_removed = self.end.prev
-                self.remove_from_list(to_be_removed)
-                del self.cache[to_be_removed.key]
-                node = Node(key, value)
-                self.move_to_front(node)
-                self.cache[key] = node
-            else:
-                node = self.cache[key]
-                node.val = value
-                self.remove_from_list(node)
-                self.move_to_front(node)
+            curr_last = self.end.prev
+            del self.cache[curr_last.key]
+            self.remove_from_list(curr_last)
+
+            node = Node(key, value)
+            self.move_to_front(node)
+            self.cache[key] = node
 
 
 # Your LRUCache object will be instantiated and called as such:

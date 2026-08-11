@@ -1,5 +1,6 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
+        
         write = 1
 
         for read in range(1, len(nums)):
